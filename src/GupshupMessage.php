@@ -4,13 +4,13 @@ namespace VivekDhumal\GupshupSmsChannel;
 
 class GupshupMessage
 {
-    protected $message;
-    protected $to;
-    protected $userid;
-    protected $password;
-    protected $mask;
-    protected $entityId;
-    protected $templateId;
+    public $message;
+    public $to;
+    public $userid;
+    public $password;
+    public $mask;
+    public $entityId;
+    public $templateId;
 
     public function __construct()
     {
