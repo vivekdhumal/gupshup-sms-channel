@@ -6,8 +6,8 @@ This package will manages to send Text SMS using  [Gupshup.io](https://www.gupsh
 
 ### Requirement
 
-- Laravel 8+
 - PHP VERSION >= 7.3
+- Laravel 8+
 - Gupshup.io Account
 
 ### Install Using Composer
